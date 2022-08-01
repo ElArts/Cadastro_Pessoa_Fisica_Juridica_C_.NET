@@ -55,8 +55,10 @@ do
             Console.WriteLine(@$"
 Nome: {novaPf.Nome}
 Endereço: {novaPf.Endereco.logradouro}, {novaPf.Endereco.numero}
-Maior de idade: {metodosPf.ValidarDataNasc(novaPf.dataNasc)}
+Maior de idade: {(metodosPf.ValidarDataNasc(novaPf.dataNasc) ? "Sim" : "Não")}
+Imposto a ser pago: {metodosPf.PagarImposto(novaPf.Rendimento).ToString("C")}
 ");
+            // condicao ? "Sim" : "Não"
 
             Console.WriteLine($"Precione ENTER para continuar");
             Console.ReadLine();
