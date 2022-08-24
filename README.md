@@ -1,9 +1,9 @@
-## Cadastro de Pessoa Física e Jurídica: Aplicação de Console utilizando C# e .NET
+# Cadastro de Pessoa Física e Jurídica: Aplicação de Console utilizando C# e .NET
 
-# FUNCIONALIDADES:
+## FUNCIONALIDADES:
 - Cadastrar pessoas físicas e jurídicas coletando alguns dados em comum e alguns dados em especifico.
 
-# PESSOA FÍSICA:
+## PESSOA FÍSICA:
 
 - Nome;
 - CPF;
@@ -12,7 +12,7 @@
 - Rendimento;
 - Imposto a ser pago.
 
-# PESSOA JURIDICA:
+## PESSOA JURIDICA:
 
 - Nome;
 - CNPJ;
@@ -21,16 +21,16 @@
 - Rendimento;
 - Imposto a ser pago.
 
-# RECURSOS E PLANEJAMENTOS
+## RECURSOS E PLANEJAMENTOS
 
 - O projeto foi realizado no Visual Studio Code, utilizando a linguagem C# e o framework .Net (dot net). Dividindo em menus, é possível ir escolhendo as opções que deseja através do console, além de ter um tempo de resposta rápido.
 
-# REQUISITOS PARA ACESSAR O PROJETO
+## REQUISITOS PARA ACESSAR O PROJETO
 
 - Ter um computador com acesso a internet.
 
-# POSSÍVEIS ERROS
+## POSSÍVEIS ERROS
 - A conversão monetária pode apresentar erros. Alguns sub-menus não foram terminados até o momento (23 de agosto de 2022).
 
-# EQUIPE DE DESENVOLVIMENTO E FINALIDADE DO PROJETO
+## EQUIPE DE DESENVOLVIMENTO E FINALIDADE DO PROJETO
 - O projeto foi desenvolvido por Arthur, estudante de programação do Senai-SP, visando conhecer melhor a linguágem C# e a programação back end.
