@@ -1,4 +1,4 @@
-*Cadastro de Pessoa Física e Jurídica: Aplicação de Console utilizando C# e .NET*
+## Cadastro de Pessoa Física e Jurídica: Aplicação de Console utilizando C# e .NET
 
 #FUNCIONALIDADES:
 - Cadastrar pessoas físicas e jurídicas coletando alguns dados em comum e alguns dados em especifico.
